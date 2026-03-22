@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMAIL TEMPLETE</title>
+</head>
+<body>
+    <table width="40%" height="600px" align="center" border="0" cellpadding="2px">
+      <tr>
+     <td colspan="2" align="center">
+        <img src="https://ci3.googleusercontent.com/meips/ADKq_NZnPfsCQeXORWwVUajH2WfEDU0A1Lpz9cWMDCEy4fqo8fZkaxMid1nGO2k4ImUwKAp7o8NJa3BfYZX-7ji1zhgDVw1mbjnbYldOsya675Ccx_uZZhHifwG0P8L3x9p5R-FmOjH-Mmavi8MMiuIAqxQr6_-PffxTuOikgDL8kgeYVF55y44izr9_jFi2BHCv=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/667df6a313836d00590cca91/original.png?1719531170" alt="😊" width="100%">
+       <p align="center">	
+         Welcome to Canva! Ready to hone your design skills? Start by learning how to customise templates, add elements, use fonts and colours, and more
+        </p>
+        <a href="" ><h1 > Start with a tutorial</h1></a>
+    </td> 
+    
+    </tr>
+    
+
+
+    <tr >
+        <td colspan="2">
+            <h1>	
+                Canva starter pack: Resources for beginners</h1>
+            <p align="justify">
+             	
+               Unlock your creative potential and bring your ideas to life. These resources will help you get started.
+            </p>
+        </td>
+        
+    </tr>
+
+  
+    <tr>
+        <td>
+            <h1> &nbsp;Learn the basic</h1>
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_NY-bN3TudzIKceZTOQwYUJ23eCfXQpFk0XExR5FRqIgyKKy6WLFIISA4mhbgkWQ-eln1AwbNzRQfkogvuG_3zNjqRH20bHGNfVcDSNzByNpAZY04UI3BSEOZxpo9RNuOwjeigzEGORkJLNEvGTmPwkoeqrP8IKVJSWI-bgKtu-N5H03kZG238D61cSLKmv-=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/66720fe7ccba4600590b0c35/original.png?1718751206" alt="😊">
+        </td>
+        <td>
+            <h1> &nbsp;Craft presentation</h1>
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_NbU1oEcv4kEBQ3kOGyjD0DlHkexyFvaMOIkvaLqRVWxJgBNWkm9SCOgiD8m9NnwxiwJSIhCl3WSTj7bunmRQsfGbOFWXMHRIIZht87_ssDzwWYfsXnT-O1ZCgWJsOIIv9NOp3vcWLmoFeva8gpOAe5_4B1v1QdylOeYPXHhVcR0Y70Ggf3Zy8HW-EZ3xEm3=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/66720fe79380c9005943c4d4/original.png?1718751206" alt="😊">
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <h1>&nbsp;Brush up on social media</h1>
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_NaaV_SBXJzIXWlFcxl5oAnnK4O-6SF1huzVIUga7Osc9f2knOLN9pKbYRjBQVO-yViRWUm3tShcrC089h1CL08hRa53Lhl6tcXj64rsPIzssUmc_qRzkMY479MTeWkJBh46bLHo1QaZZPKWJY-xWaMv-xqYSpWScDRxaKkRIrRjLnOq6E-LXx9jNPmPSDH2=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/66720fe62fe656005bac4383/original.png?1718751206" alt="😊">
+        </td>
+        <td>
+            <h1>&nbsp;Meet our AI-powered tools</h1>
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_NaHt5BEfMofj-JtovY6m45P_mYGWNNh3UC3VYDP-xtwxO3aOQDNSsWh8L8lubUy4EcEnjjGjZ0IMICOoWeIzoCU5dNWcwqgF-bpiRGiXYSpRQ3F9BOiOMlopL7LzTeAWjBNbukE6XEMH5kgel-4SMXpIgU9QCsSxVRWYo6b_uRuKeP7oPPmREQGb26A9Evv=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/667207b56c00450058261c54/original.png?1718749109" alt="😊">
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top">
+            <h1>
+                &nbsp;Talk to you soon
+            </h1>
+            <p align="justify"> 
+                Want more tips to help you do your best work? Manage your message preferences to make sure you hear about what matters most to you.
+            </p>
+        </td>
+        <td>
+            <img src="https://ci3.googleusercontent.com/meips/ADKq_NZJO6SAwhO5EeNkSfqJiSOvNKbf5g2-DxTjnSOxvp7hhmLQJnmDt7k6zJRWXXramJUFOz4rnCj8svI82pn9yJZ-H9cjkbRWl7koSAoN-7kMbmX2IsZXn3F2wzlLN4p84dfqwZdNWcPwGWblQeSYKjor3x_-IDdFLBVhKm4yez2vOzKRYscxeUdEa1EQG4JR=s0-d-e1-ft#https://braze-images.com/appboy/communication/assets/image_assets/images/667207b51aca800063525866/original.png?1718749109" alt="😊">
+        </td>
+
+    </tr>
+    <tr><td align="center" colspan="2">
+        <h3>You are receiving this email because you signed up to Canva.</h3>
+
+    </td></tr>
+
+    </table>
+</body>
+</html>
